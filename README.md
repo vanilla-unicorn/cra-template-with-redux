@@ -1,4 +1,4 @@
-![NPM](https://img.shields.io/npm/l/cra-template-with-redux)
+![NPM](https://img.shields.io/npm/l/cra-template-with-redux) ![npm](https://img.shields.io/npm/v/cra-template-with-redux)
 
 # CRA with Redux
 
