@@ -1,3 +1,5 @@
+![NPM](https://img.shields.io/npm/l/cra-template-with-redux)
+
 # CRA with Redux
 
 ## Why?
