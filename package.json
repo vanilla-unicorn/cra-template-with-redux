@@ -1,7 +1,23 @@
 {
   "name": "cra-template-with-redux",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "author": "Jo Santiago <josantiago@codingwith.me>",
+  "private": false,
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "description": "A quick-start Create-React-App template with Redux and React Router and default scaffolding.",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "redux",
+    "react-router"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
